@@ -1,8 +1,4 @@
 
-Mémoire mise à jour
-Here are some hands-on lab projects you can try to practice Terraform as a beginner:
-
-1. Basic Infrastructure Setup
 # Objective: Create a simple infrastructure in AWS using Terraform.
 ## Components:
 - VPC
