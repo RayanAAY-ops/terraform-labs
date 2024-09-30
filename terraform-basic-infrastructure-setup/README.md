@@ -1,5 +1,20 @@
-Sure! Here’s a comprehensive summary of everything we've discussed regarding creating a lab infrastructure in AWS using Terraform, covering key components like VPC, subnets, security groups, and internet access:
 
+Mémoire mise à jour
+Here are some hands-on lab projects you can try to practice Terraform as a beginner:
+
+1. Basic Infrastructure Setup
+# Objective: Create a simple infrastructure in AWS using Terraform.
+## Components:
+- VPC
+- Public and private subnets
+- EC2 instance in the public subnet
+- Security group for allowing SSH access to the EC2 instance
+## Steps:
+- Write Terraform configurations to define the VPC, subnets, and EC2 instance.
+- Use the terraform init command to initialize your project.
+- Run terraform plan to see what will be created.
+- Execute terraform apply to create the infrastructure.
+- Test by SSHing into the EC2 instance.
 ### 1. **Setting Up Your Infrastructure with Terraform**
 
 #### Terraform Configuration Basics
