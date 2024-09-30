@@ -157,4 +157,4 @@
 - **Security Groups**: Acts as a virtual firewall for your instances to control inbound and outbound traffic.
 - **SSH Key Pairs**: Used for secure access to your EC2 instances.
 
-This summary encapsulates the entire process of setting up a simple cloud infrastructure using Terraform on AWS, from creating a VPC to launching an EC2 instance with SSH access. If you have any further questions or need additional details on any part, feel free to ask!
+This summary encapsulates the entire process of setting up a simple cloud infrastructure using Terraform on AWS, from creating a VPC to launching an EC2 instance with SSH access.
